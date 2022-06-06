@@ -2,12 +2,11 @@
 
 👋 Hi, I’m [Harsh Gulati](https://www.linkedin.com/in/harsh-gulati-005585ab/) 
 
-👀 I’m interested in Competitive Programming, Web Development.
-
-💞️ I’m looking to collaborate on projects that involve MERN Stack.
-
-📫 How to reach me : E-Mail : harshgulati1409@gmail.com Phone No : +91 9953961096
-
+I am a student with excellent problem-solving skills and a experienced full - stack developer, that had made projects that impact the society using various tech stack and have ability to perform well in a team. Strong engineering professional with a Bachelor of Engineering focused in Computer Science from Vellore Institute of Technology, Vellore.
+<br/>
+<br/>
+<br/>
+<br/>
 ## 🔨 Languages and Tools:
 
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="icons/c++/c++.svg"></a>
@@ -21,5 +20,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="icons/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="icons/react/react.svg"></a>
 
+<br>
+<br>
+<br>
+<br>
 
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh-gulati-14&show_icons=true&theme=radical)
