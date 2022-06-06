@@ -4,7 +4,9 @@
 
 ## Hi, I’m [Harsh Gulati](https://www.linkedin.com/in/harsh-gulati-005585ab/), SDE Intern at Groww, India <img align="left" alt="C++" height ="42px" src="images/groww.jpg" />
 
-I am a student with excellent problem-solving skills and a experienced full - stack developer, that had made projects that impact the society using various tech stack and have ability to perform well in a team. Strong engineering professional with a Bachelor of Engineering focused in Computer Science from Vellore Institute of Technology, Vellore.
+I am a student with excellent problem-solving skills and a experienced full - stack developer, that had made projects that impact the society using various tech stack and have ability to perform well in a team. 
+
+Strong engineering professional with a <b> Bachelor of Engineering focused in Computer Science from Vellore Institute of Technology, Vellore <b>
 
 ## 🔨 Languages and Tools:
 
@@ -25,3 +27,5 @@ I am a student with excellent problem-solving skills and a experienced full - st
 
 
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh-gulati-14&show_icons=true&theme=radical)
+  
+📫 How to reach me : E-Mail : harshgulati1409@gmail.com, Phone No : +91 9953961096
